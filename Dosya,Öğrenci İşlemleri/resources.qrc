@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/gecenler">
+        <file>dosya/gecenler.txt</file>
+    </qresource>
+    <qresource prefix="/kalanlar">
+        <file>dosya/kalanlar.txt</file>
+    </qresource>
+</RCC>
